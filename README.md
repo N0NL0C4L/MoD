@@ -8,6 +8,7 @@ Features
 
 * Multi-threading
 * Proxy support
+* UserAgent randomization
 * Customizable request method
 * Customizable request amount
 
